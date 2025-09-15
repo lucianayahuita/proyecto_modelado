@@ -22,7 +22,7 @@
 }
 
 .home-section {
-  background-image: url('src/assets/ast.jpg'); 
+  background-image: url('@/assets/ast.jpg');
   background-size: cover;
    background-position: center top; 
   background-repeat: no-repeat;
