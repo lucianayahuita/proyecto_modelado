@@ -1,14 +1,14 @@
 <template>
   <div class="home-section">
-    <h1 class="title">Generación de Números Pseudoaleatorios</h1>
+    <h1 class="title">Proyecto de modelado, dinámica y simulación</h1>
     
     <div class="button-group">
       <router-link to="/multiplicativo" class="algo-button">
-        <span class="button-text">Algoritmo Multiplicativo</span>
+        <span class="button-text">Números pseudoaleatorios</span>
       </router-link>
       
-      <router-link to="/lineal" class="algo-button">
-        <span class="button-text">Algoritmo Congruencial Lineal</span>
+      <router-link to="/Eplazofijo" class="algo-button">
+        <span class="button-text">Ejes de Modelos de Simulación </span>
       </router-link>
     </div>
   </div>

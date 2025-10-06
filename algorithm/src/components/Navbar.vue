@@ -34,6 +34,16 @@
           <span class="material-icons nav-icon">rocket_launch</span>
           <span class="nav-text">Lineal</span>
         </router-link>
+
+        <router-link 
+          to="/Eplazofijo" 
+          class="nav-link"
+          @click="closeMenu"
+        >
+          <span class="material-icons nav-icon">rocket_launch</span>
+          <span class="nav-text">Modelos de Simulación</span>
+        </router-link>
+       
       </div>
       
       <div class="hamburger" @click="toggleMenu">
